@@ -1,11 +1,11 @@
 # My Work
 
-Principles of Data Analytics module
+Principles of Data Analytics module.
 This README has been written with [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
 
 ## About This Project
 
-This project is about my analysis of the famous palmer penguins dataset and the variables in contains. The Palmer Penguins dataset is a popular 
+This project is about my analysis of the famous [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#highlights) dataset and the variables in contains. The Palmer Penguins dataset is a popular 
 dataset used for teaching and learning purposes in data science and machine learning. It contains information about three species of penguins: Adélie, 
 Chinstrap, and Gentoo. 
 
