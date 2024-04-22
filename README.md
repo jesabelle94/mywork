@@ -9,10 +9,6 @@ This project is about my analysis of the famous palmer penguins dataset and the 
 dataset used for teaching and learning purposes in data science and machine learning. It contains information about three species of penguins: Adélie, 
 Chinstrap, and Gentoo. 
 
-This dataset is often used for tasks such as classification, clustering, and data visualization. The data set is available [on GitHub](https://
-allisonhorst.github.io/palmerpenguins/)
-
-
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width="600" height="300"/>
 
 
