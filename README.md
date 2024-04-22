@@ -1,9 +1,6 @@
 # My Work
+
 Principles of Data Analytics module
-
-**by Jenny Formentera**
-
-
 This README has been written with [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
 
 ## About This Project
@@ -27,6 +24,7 @@ Where users can get help with your project
 
 
 ## Contributions
+
 
 Who maintains and contributes to the project
 
