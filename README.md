@@ -2,6 +2,7 @@
 
 Principles of Data Analytics module.
 This README has been written with [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
+You can find out more about [writing in Markdown in GitHub's documentation](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#highlights).
 
 ## About This Project
 
@@ -19,8 +20,12 @@ Why this project is useful
 
 ## Get Started
 
-How users can get started with the project
+I used [openincolab.com](https://openincolab.com/) to generate the following clickable link.
+It opens the `penguins.ipynb` notebook in [Google Colab](https://colab.research.google.com/).
 
+<a target="_blank" href="https://colab.research.google.com/github/jesabelle94/mywork/blob/main/penguins.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Get Help
 
