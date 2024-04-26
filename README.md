@@ -19,10 +19,25 @@ Chinstrap, and Gentoo.
 
 ## Use of This Project
 
-Why this project is useful 
+This project is useful for getting started with Data Analytics and importantly to demonstrate the following:
+- Source and investigate sets of data.
+- Programmatically explore and visualize data.
+- Apply basic mathematical data analysis techniques to data sets.
+- Model real-world problems for analysis by computer.
+- Provide evidence in a decision-making process using a data set.
+- Appreciate the limitations of graphical representations in data intensive workflows.
 
 
 ## Get Started
+
+In order to do this project, it requires to download and install all the required software, and set up GitHub account:
+- [Cmder](https://cmder.app/)
+- [Anaconda](https://www.anaconda.com/products/individual)
+- [Visual Studio Code (VS Code)](https://code.visualstudio.com/Download)
+- [GitHub Account](https://github.com/jesabelle94)
+
+The project focuses on [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/) data set. [Copy of the data set here](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv)
+
 
 I used [openincolab.com](https://openincolab.com/) to generate the following clickable link.
 It opens the `penguins.ipynb` notebook in [Google Colab](https://colab.research.google.com/).
@@ -32,14 +47,18 @@ It opens the `penguins.ipynb` notebook in [Google Colab](https://colab.research.
 
 Where users can get help with your project
 
+My Principles of Data Analytics lecturer, Ian, played a significant role in initiating this project. His [lecture videos](https://atlantictu-my.sharepoint.com/personal/ian_mcloughlin_atu_ie/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fian%5Fmcloughlin%5Fatu%5Fie%2FDocuments%2Fstudent%5Fshares%2Fprinciples%5Fof%5Fdata%5Fanalytics&ga=1) offered invaluable insights throughout the course, showcasing a deep understanding of the material. 
+
+I completed hours of research on this project. The websites helped me a lot with gathering ideas of the analysis and plotting data:
+- [palmerpenguins by Alison Hill & Kristen Gorman](https://allisonhorst.github.io/palmerpenguins/)
+- [Penguin Plots: Practicing Analytics](https://rpubs.com/TEHoule/PalmerPenguinPlayground)
+- [Exploring Penguin Dataset](https://rpubs.com/Saif178/1053370)
+- [Python Data Analysis Project by Abdulmalik Yakubu ](https://yabdulmalik.medium.com/python-data-analysis-project-palmer-penguins-dataset-411a1e0b8c7d)
 
 ## Contributions
 
-
-Who maintains and contributes to the project
-
+Jenny Isabelle Formentera.
 
 ## Author
 
-About me
-
+I am interested in opening my horizon especially
