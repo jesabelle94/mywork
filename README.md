@@ -30,7 +30,7 @@ This project is useful for getting started with Data Analytics and importantly t
 
 ## Get Started
 
-In order to do this project, it requires to download and install all the required software, and set up GitHub account:
+To undertake this project, it is necessary to download and install all the required software, as well as set up a GitHub account.
 - [Cmder](https://cmder.app/)
 - [Anaconda](https://www.anaconda.com/products/individual)
 - [Visual Studio Code (VS Code)](https://code.visualstudio.com/Download)
@@ -61,4 +61,4 @@ Jenny Isabelle Formentera.
 
 ## Author
 
-I am interested in opening my horizon especially hhello
+Hello! My name is Jenny, and I've taken interest about Data Analytics and exploring the vast possibilites. Currently enrolled in the part time course Higher Diploma in Science in Data Analytics. I work as a Quality Analyst in a Tech company. Through this project, I hope to not only enhance my skills but also broaden my knowledge in Data Analytics.
