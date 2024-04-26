@@ -19,7 +19,7 @@ Chinstrap, and Gentoo.
 
 ## Use of This Project
 
-Why this project is useful
+Why this project is useful 
 
 
 ## Get Started
